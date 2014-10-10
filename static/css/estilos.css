@@ -1,5 +1,5 @@
 .Modelo-cajas1{
-	background: gray;
+	background: green;
 	margin: 0;
 }
 
@@ -7,6 +7,7 @@
 	background: red;
 	margin: 0;
 	display: inline-block;
+	margin-left: 50px;
 }
 .Modelo-cajas3{
 	background: blue;
@@ -23,4 +24,41 @@
 	background: gray;
 	margin: 0;
 	display: none;
+}
+.Modelo-cajas6{
+	background: green;
+	margin: 0;
+}
+.Modelo-cajas7{
+	background: red;
+	margin: 0;
+	display: inline-block;
+	position: relative;
+	top: 20px;
+	left: 50px;
+}
+.Modelo-cajas8{
+	background: blue;
+	margin: 0;
+	display: inline-block;
+}
+.Modelo-cajas9{
+	background: lightgray;
+	margin: 0;
+	position: relative;
+}
+.Modelo-cajas10{
+	background: yellow;
+	margin: 0;
+	position: absolute;
+	top: 20px;
+	left: 300px;
+}
+.Modelo-cajas11{
+	background: green;
+	margin: 0;
+	position: fixed;
+	/*top: 0;*/
+	right: 0;
+	bottom: 0;
 }
