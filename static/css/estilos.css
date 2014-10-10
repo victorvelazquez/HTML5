@@ -1,0 +1,26 @@
+.Modelo-cajas1{
+	background: gray;
+	margin: 0;
+}
+
+.Modelo-cajas2{
+	background: red;
+	margin: 0;
+	display: inline-block;
+}
+.Modelo-cajas3{
+	background: blue;
+	margin: 0;
+	display: inline-block;
+}
+.Modelo-cajas4{
+	background: yellow;
+	margin: 0;
+	display: inline-block;
+	vertical-align: top;
+}
+.Modelo-cajas5{
+	background: gray;
+	margin: 0;
+	display: none;
+}
